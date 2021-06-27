@@ -1,0 +1,53 @@
+References (APA):
+
+Favicon.io - The Ultimate Favicon Generator (Free). (2021). Retrieved 27 June 2021, from https://favicon.io/
+
+Mark Otto, a. (2021). Introduction. Retrieved 27 June 2021, from https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+Animate.css | A cross-browser library of CSS animations. (2021). Retrieved 27 June 2021, from https://animate.style/
+
+Boxicons : Premium web friendly icons for free. (2021). Retrieved 27 June 2021, from https://boxicons.com/
+
+Iconfonts and webfonts - Flaticon. (2021). Retrieved 27 June 2021, from https://www.flaticon.com/iconfonts
+
+Fancybox | fancyapps.com. (2021). Retrieved 27 June 2021, from https://fancyapps.com/docs/ui/fancybox/
+
+Deutsch, D. (2021). Welcome | Owl Carousel | 2.3.4. Retrieved 27 June 2021, from https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html
+
+Semenov, D. (2021). Magnific Popup: Responsive jQuery Lightbox Plugin. Retrieved 27 June 2021, from https://dimsemenov.com/plugins/magnific-popup/
+
+Popper V2 (2021). Retrieved 27 June 2021, from https://popper.js.org/docs/v2/
+
+Parallax.js | Simple Parallax Scrolling Effect with jQuery. (2021). Retrieved 27 June 2021, from https://pixelcog.github.io/parallax.js/
+
+scdoshi/jquery-ajaxchimp. (2021). Retrieved 27 June 2021, from https://github.com/scdoshi/jquery-ajaxchimp
+
+wow.js — Reveal Animations When Scrolling. (2021). Retrieved 27 June 2021, from https://wowjs.uk/
+
+Isotope · Filter & sort magical layouts. (2021). Retrieved 27 June 2021, from https://isotope.metafizzy.co/
+
+Paper.js. (2021). Retrieved 27 June 2021, from http://paperjs.org/
+
+Kaltenegger, S. (2021). Custom Cursor Effects | Codrops. Retrieved 27 June 2021, from https://tympanus.net/codrops/2019/01/31/custom-cursor-effects/
+
+Twitch. 2021. Esports Live Streams - Twitch. [online] Available at: <https://www.twitch.tv/directory/all/tags/36a89a80-4fcd-4b74-b3d2-2c6fd9b30c95> [Accessed 27 June 2021].
+
+Escharts.com. 2021. DH SC2 Masters 2021 Summer Season Finals detailed viewers stats | Esports Charts. [online] Available at: <https://escharts.com/tournaments/sc2/dh-sc2-masters-2021-summer-season-finals> [Accessed 27 June 2021].
+
+Meusel, S., 2021. esports.com - Everything else is just Gaming!. [online] eSports.com. Available at: <https://www.esports.com/en> [Accessed 27 June 2021].
+
+Thebridge.in. 2021. ESports. [online] Available at: <https://thebridge.in/esports> [Accessed 27 June 2021].
+
+Battlefy.com. 2021. Battlefy. [online] Available at: <https://battlefy.com/> [Accessed 27 June 2021].
+
+2021. [online] Available at: <https://www.repeat.gg/content/biggest-esports-tournaments-2020/> [Accessed 27 June 2021].
+
+Na.leagueoflegends.com. 2021. League of Legends. [online] Available at: <https://na.leagueoflegends.com/en-us/> [Accessed 27 June 2021].
+
+Philleo, P., Philleo, P., Admin, P., 2021. Game Industry Event News - Events for Gamers. [online] Events for Gamers. Available at: <https://www.eventsforgamers.com/news/> [Accessed 27 June 2021].
+
+Epic Games' Fortnite. 2021. Fortnite – A Free-to-Play Battle Royale Game and More. [online] Available at: <https://www.epicgames.com/fortnite/en-US/home> [Accessed 27 June 2021].
+
+2021. [online] Available at: <https://www.dota2.com/home> [Accessed 27 June 2021].
+
+PCMag India. 2021. The Best Esports Games for 2021. [online] Available at: <https://in.pcmag.com/gaming/140097/the-best-esports-games-for-2021?p=1> [Accessed 27 June 2021].
